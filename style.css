@@ -20,7 +20,7 @@ body {
 }
 
 .header {
-    background-image: url(images/bg.jfif);
+    background-image: url(bg.jfif);
     background-repeat: no-repeat;
     background-size: cover;
     padding-top: 10px;
